@@ -1,5 +1,2 @@
-nombre del autor de este txt: Alejandro Soler
-correo del autor de este txt: 0345asoler@e-itaca.es
-
-nombre del autor del repositorio clonado: Aaron Ernesto Baila
-correo del autor del repositorio clonado: no me lo se jaja 
+nombre: Alejandro Soler
+correo: 0345asoler@e-itaca.es
